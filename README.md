@@ -22,5 +22,5 @@ Other packages are as follows:
 pip install -r requirements.txt
 # Usage
 * The file "train.py" in /Cataract-ECRN is used for our models training.
-* The file "test.py" in /Cataract-ECRN is used for testing.
+* The file "test.py" in /Cataract-ECRN is used for testing.  
 Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Yi Zhang, E-mail: zh_yi@stu.xupt.edu.cn.
