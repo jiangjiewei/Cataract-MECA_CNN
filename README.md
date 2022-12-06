@@ -2,10 +2,10 @@
 This repository contains the source code for developing an efficient channel attention_ multi scale deep residual network (ECRN) system for the automatic grading of cataract visual acuity from fundus images.
 This system provides a practical strategy for automatic grading of cataract visual acuity.
 # Prerequisites
-Ubuntu: 18.04 lts
-Python 3.7.8
-Pytorch 1.6.0
-NVIDIA GPU + CUDA_10.0 CuDNN_7.5
+  Ubuntu: 18.04 lts
+  Python 3.7.8
+  Pytorch 1.6.0
+  NVIDIA GPU + CUDA_10.0 CuDNN_7.5
 # Installation
 Other packages are as follows:
 pytorch: 1.6.0
